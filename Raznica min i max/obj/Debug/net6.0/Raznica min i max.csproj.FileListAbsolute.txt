@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\obj\Debug\net6.0\Raznica min i max.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\obj\Debug\net6.0\Raznica min i max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\obj\Debug\net6.0\Raznica min i max.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\obj\Debug\net6.0\Raznica min i max.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\obj\Debug\net6.0\Raznica min i max.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\bin\Debug\net6.0\Raznica min i max.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\bin\Debug\net6.0\Raznica min i max.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\bin\Debug\net6.0\Raznica min i max.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\bin\Debug\net6.0\Raznica min i max.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\bin\Debug\net6.0\Raznica min i max.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\obj\Debug\net6.0\Raznica min i max.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\obj\Debug\net6.0\refint\Raznica min i max.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\obj\Debug\net6.0\Raznica min i max.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\obj\Debug\net6.0\Raznica min i max.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Raznica min i max\obj\Debug\net6.0\ref\Raznica min i max.dll
