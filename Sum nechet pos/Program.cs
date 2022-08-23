@@ -1,5 +1,5 @@
-﻿// Задайте массив заполненный случайными положительными трёхзначными числами. 
-// Напишите программу, которая покажет количество чётных чисел в массиве.
+﻿// Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов,
+// стоящих на нечётных позициях.
 
 void FillArray(int[] collection)   
 {                                    
@@ -9,7 +9,7 @@ void FillArray(int[] collection)
     int index = 0;                      
     while (index < length)           
     {
-        collection[index] = new Random().Next(100, 999);
+        collection[index] = new Random().Next(1, 9);
         //index = index + 1;
         index++;
     }
@@ -35,14 +35,14 @@ void Count(int[] col)
     int temp = 0;
     while(position < lg)
     {
-        if(col[position] % 2 == 0) 
+        if(position % 2 != 0) 
         {
-            temp = count + 1;
+            temp = count + col[position];
             count = temp;
         }       
         position++;
     }
-    Console.WriteLine("Количество четных чисел " + count);
+    Console.WriteLine("Сумма чисел на нечетных позициях " + count);
     Console.WriteLine();
 }
 

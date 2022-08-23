@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\bin\Debug\net6.0\Sum nechet pos.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\bin\Debug\net6.0\Sum nechet pos.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\bin\Debug\net6.0\Sum nechet pos.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\bin\Debug\net6.0\Sum nechet pos.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\bin\Debug\net6.0\Sum nechet pos.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\obj\Debug\net6.0\Sum nechet pos.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\obj\Debug\net6.0\Sum nechet pos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\obj\Debug\net6.0\Sum nechet pos.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\obj\Debug\net6.0\Sum nechet pos.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\obj\Debug\net6.0\Sum nechet pos.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\obj\Debug\net6.0\Sum nechet pos.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\obj\Debug\net6.0\refint\Sum nechet pos.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\obj\Debug\net6.0\Sum nechet pos.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\obj\Debug\net6.0\Sum nechet pos.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\Sum nechet pos\obj\Debug\net6.0\ref\Sum nechet pos.dll
