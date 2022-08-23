@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\bin\Debug\net6.0\zadacha 35.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\bin\Debug\net6.0\zadacha 35.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\bin\Debug\net6.0\zadacha 35.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\bin\Debug\net6.0\zadacha 35.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\bin\Debug\net6.0\zadacha 35.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\obj\Debug\net6.0\zadacha 35.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\obj\Debug\net6.0\zadacha 35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\obj\Debug\net6.0\zadacha 35.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\obj\Debug\net6.0\zadacha 35.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\obj\Debug\net6.0\zadacha 35.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\obj\Debug\net6.0\zadacha 35.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\obj\Debug\net6.0\refint\zadacha 35.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\obj\Debug\net6.0\zadacha 35.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\obj\Debug\net6.0\zadacha 35.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-5\zadacha 35\obj\Debug\net6.0\ref\zadacha 35.dll
